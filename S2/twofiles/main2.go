@@ -8,7 +8,3 @@ func main() {
 	card := OutCard()
 	fmt.Println(card)
 }
-
-func OutCard() string {
-	return "Five of Diamonds"
-}

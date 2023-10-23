@@ -1,5 +1,5 @@
 package main
 
 func OutCard() string {
-	return "Five of Diamonds"
+	return "Game Cards are awesome!"
 }
